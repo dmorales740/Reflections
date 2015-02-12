@@ -15,4 +15,7 @@ Sometimes commits are closely related and using branches helps to organize them 
 5. How do the diagrams help you visualize the branch structure? 
 The diagrams hwlp me see which commit will be listed with git log and also wich branch belong to which master branch.
 
-6. 
+6. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+After merging two branches, the new branche becomes the master branch and it has two parents.
+
+7. 
