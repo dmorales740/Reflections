@@ -12,4 +12,7 @@ After adding files to the staging area, we can compare the files in the working 
 4. What are some situations when branches would be helpful in keeping your history organized? How would branches help? 
 Sometimes commits are closely related and using branches helps to organize them together.
 
-5.  
+5. How do the diagrams help you visualize the branch structure? 
+The diagrams hwlp me see which commit will be listed with git log and also wich branch belong to which master branch.
+
+6. 
