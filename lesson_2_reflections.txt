@@ -18,4 +18,7 @@ The diagrams hwlp me see which commit will be listed with git log and also wich 
 6. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 After merging two branches, the new branche becomes the master branch and it has two parents.
 
-7. 
+7. What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+In automatic merging, git can mess up the code if merges the wrong change. however, it is faster. With manual merge, the user makes sure the code is correctly merged, but this can be troublesome.
+
+8. 
