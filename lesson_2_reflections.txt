@@ -1,0 +1,9 @@
+Lesson 2
+
+1. What happens when you initialize a repository? Why do you need to do it?
+Git creates a meta data folder in the directory that begins to track the files and makes them available for commits.
+
+2. . How is the staging area different from the working directory and the repository? What value do you think it offers?
+Files from the working directory are placed in the staging area before they are commited to a repository. I allows us to preview the repository before it is created.
+
+3. 
